@@ -1,5 +1,7 @@
 # proyecto_PAI
+
 https://github.com/jolayam/proyecto_PAI/assets/83465309/8a9bafaf-1c8c-452b-86e6-64cc00f771f9
+
 Para una mejor visualización:
 [![Haz clic para ver el video](https://img.youtube.com/vi/u8weWuxakLc/maxresdefault.jpg)](https://youtu.be/u8weWuxakLc)
 
