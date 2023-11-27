@@ -6,7 +6,11 @@ Se empleó ROS (Robot Operating System) para controlar la rutina de movimiento d
 
 ## Video Demostrativo
 
-https://github.com/jolayam/proyecto_PAI/assets/83465309/e7f7d7ee-bde7-4cb3-a991-fcf827ad81a6
+
+https://github.com/jolayam/proyecto_PAI/assets/83465309/978bb6cf-b52c-4ecd-a64d-a138de412a5a
+
+
+
 
 
 [![Haz clic para ver el video](https://img.youtube.com/vi/u8weWuxakLc/maxresdefault.jpg)](https://youtu.be/u8weWuxakLc)
