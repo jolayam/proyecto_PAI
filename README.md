@@ -1,14 +1,19 @@
-# Proyecto Diseño de una articulación de un robot Cheetah
+# Proyecto: Diseño de una articulación de un robot Cheetah
 
-https://github.com/jolayam/proyecto_PAI/assets/83465309/8a9bafaf-1c8c-452b-86e6-64cc00f771f9
+Este proyecto se enfoca en el diseño de una articulación para un robot Cheetah, implementando rutinas de caminata, galope y trote basadas en el movimiento natural de un animal cuadrúpedo. El diseño se encuentra en el repositorio junto con el informe de ingeniería que incluye cálculos, perfiles de movimiento y gráficas relevantes.
 
-Para una mejor visualización:
+Se empleó ROS (Robot Operating System) para controlar la rutina de movimiento de esta articulación 2R.
+
+## Video Demostrativo
+
+https://github.com/jolayam/proyecto_PAI/assets/83465309/e7f7d7ee-bde7-4cb3-a991-fcf827ad81a6
+
+
 [![Haz clic para ver el video](https://img.youtube.com/vi/u8weWuxakLc/maxresdefault.jpg)](https://youtu.be/u8weWuxakLc)
 
-Las rutinas de caminata, galope y trote, se diseñaron con base en el movimiento natural de un animal cuadrúpedo, dado que el Cheetah tiene sus propias rutinas de movimiento.
+## Contenido Destacado
 
-Cabe resaltar que dentro de este mismo repositorio se encuentra el informe de diseño de ingeniería con cálculos, perfiles de movimiento, y gráficas correspondientes. 
+- **Informe de Diseño:** Encuentra el informe completo con detalles técnicos y cálculos dentro de este repositorio.
+- **Rutinas de Movimiento:** Implementaciones de caminata, galope y trote inspiradas en el movimiento del Cheetah y en animales cuadrúpedos.
 
-Se utilizó ROS para controlar la rutina de movimiento de una articulacion 3R. 
-
-Diseno para la UNAL Sede Bogota, Proyecto Aplicado a Ingenieria
+Este proyecto fue desarrollado para la UNAL Sede Bogotá como parte del Proyecto Aplicado a Ingeniería (PAI).
